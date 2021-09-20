@@ -1,6 +1,6 @@
 # Normalization Techniques- Decimal Point Scailing.
 
-Used Data in Two Columns tow Normaliza it first and then visualize it using Pandas and Matplotlib respectively.
+Used Data in Two Columns tow Normalize it first and then visualize it using Pandas and Matplotlib respectively.
 
 Pandas-> To read CSV file
 Matplotlib -> To plot the Normalized data obtained
